@@ -2,7 +2,7 @@
 Custom CSS styles that override base theme go here.
 */
 
-.front .hero-copy {
+/*.front .hero-copy {
   display:none;
 }
 
@@ -14,4 +14,47 @@ Custom CSS styles that override base theme go here.
 
 .front .views-field-field-staff-picture {
   display:none;
+}
+*/
+
+.front .region-secondary-content .hero-caption {
+  font-size:15px;
+}
+
+
+.front .region-secondary-content .hero-caption a,
+.front .region-secondary-content .hero-caption a:visited,
+.front .region-secondary-content .hero-caption a:link {
+  color:#0000FF;
+}
+
+.front .region-secondary-content .hero-caption ol {
+  padding-left:30px;
+}
+
+@media (max-width: 645px) {
+  .front .region-secondary-content .views-field-field-hero-image {
+    display:none;
+  }
+
+  .front .region-secondary-content .hero-copy {
+    width:100%;
+    padding-top:20px;
+  }
+
+  .front .region-secondary-content .hero-title {
+    color:#A51C30;
+    font-size:20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .front .region-secondary-content {
+    display:block;
+  }
+
+  .front .region-secondary-content .hero-caption {
+    font-size:14px;
+  }
+
 }
