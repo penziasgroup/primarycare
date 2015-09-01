@@ -1,0 +1,65 @@
+GUID,Start Day and Time,End Day and Time,Heading,Title,Description
+1,3/14/2016 7:00,3/14/2016 7:50,,Registration and Continental Breakfast,
+2,3/14/2016 7:50,3/14/2016 8:00,,Welcome,"Jane S. Sillman, MD"
+3,3/14/2016 8:00,3/14/2016 8:50,Updates in Primary Care,Update on Hypertension,"John D. Goodson, MD"
+4,3/14/2016 8:50,3/14/2016 9:40,Updates in Primary Care,Update on Obesity Management,"Jane S. Sillman, MD"
+5,3/14/2016 9:40,3/14/2016 10:30,Updates in Primary Care,Dermatology Update,"Ruth Ann Vleugels, MD, MPH"
+6,3/14/2016 10:30,3/14/2016 10:45,Updates in Primary Care,Coffee Break,
+7,3/14/2016 10:45,3/14/2016 11:35,Updates in Primary Care,Common Thyroid Problems,"Trevor E. Angell, MD"
+8,3/14/2016 11:35,3/14/2016 12:25,Updates in Primary Care,Diabetes Update,"David M. Nathan, MD"
+9,3/14/2016 12:25,3/14/2016 13:40,Updates in Primary Care,Lunch Break,
+10,3/14/2016 12:55,3/14/2016 13:35,Updates in Primary Care,Bring Your Own Lunch: Physicians' Networking Lunch,
+11,3/14/2016 13:40,3/14/2016 14:30,Updates in Primary Care,Challenging Nephrology Cases,"J. Kevin Tucker, MD"
+12,3/14/2016 14:40,3/14/2016 16:10,,Workshops A1-A8,Add Content
+13,3/14/2016 16:10,3/14/2016 16:30,,Coffee Break,
+14,3/14/2016 16:30,3/14/2016 18:00,,Workshops B1-B8,Add Content
+15,3/15/2016 6:15,3/15/2016 7:00,,Yoga,Cybele Leger
+16,3/15/2016 7:30,3/15/2016 8:00,,Continental Breakfast,
+17,3/15/2016 8:00,3/15/2016 8:50,Neurology and Psychiatry,Update on Treating Headaches,"Rebecca Burch, MD"
+18,3/15/2016 8:50,3/15/2016 9:40,Neurology and Psychiatry,Diagnosis and Treatment of Cognitive Impairment,"Andrew E. Budson, MD"
+19,3/15/2016 9:40,3/15/2016 10:30,Neurology and Psychiatry,"Can't-Miss" Diagnoses,"Charles A. Morris, MD, MPH"
+20,3/15/2016 10:30,3/15/2016 10:45,Neurology and Psychiatry,Coffee Break,
+21,3/15/2016 10:45,3/15/2016 11:35,Neurology and Psychiatry,Update on Depression,"Russell G. Vasile, MD"
+22,3/15/2016 11:35,3/15/2016 12:25,Neurology and Psychiatry,Movement Disorders,"Martin A. Samuels, MD"
+23,3/15/2016 12:25,3/15/2016 13:40,,Lunch Break,
+24,3/15/2016 12:55,3/15/2016 13:35,,"Bring Your Own Lunch: Networking Lunch for NPs, Nurses and PAs",
+25,3/15/2016 13:40,3/15/2016 14:30,Meet Our Master Clinicians,Workshops T1-T8,Add Content
+26,3/15/2016 14:40,3/15/2016 16:10,,Workshops C1-C8,Add Content
+27,3/15/2016 16:10,3/15/2016 16:30,,Coffee Break,
+28,3/15/2016 16:30,3/15/2016 18:00,,Workshops D1-D8,Add Content
+29,3/16/2016 6:15,3/16/2016 7:00,,Yoga,Cybele Leger
+30,3/16/2016 7:30,3/16/2016 8:00,,Continental Breakfast,
+31,3/16/2016 8:00,3/16/2016 8:50,Updates in Primary Care 2,Antibiotics in Office Practice,"Paul E. Sax, MD"
+32,3/16/2016 8:50,3/16/2016 9:40,Updates in Primary Care 2,Solitary Pulmonary Nodules and Screening for Lung Cancer*,"Gerald L. Weinhouse, MD"
+33,3/16/2016 9:40,3/16/2016 10:30,Updates in Primary Care 2,Menopause Management,"JoAnn E. Manson, MD"
+34,3/16/2016 10:30,3/16/2016 10:45,Updates in Primary Care 2,Coffee Break,
+35,3/16/2016 10:45,3/16/2016 11:35,Updates in Primary Care 2,Curbside Consults in Infectious Disease,"Paul E. Sax, MD"
+36,3/16/2016 11:35,3/16/2016 12:25,Updates in Primary Care 2,Osteoporosis,"Carolyn B. Becker, MD"
+37,3/16/2016 12:25,3/16/2016 13:40,Updates in Primary Care 2,Lunch Break,
+38,3/16/2016 13:40,3/16/2016 14:30,Updates in Primary Care 2,Update on Hepatitis C,"Robert C. Lowe, MD"
+39,3/16/2016 14:40,3/16/2016 16:10,,Workshops E1-E8,Add Content
+40,3/16/2016 16:10,3/16/2016 16:30,,Coffee Break,
+41,3/16/2016 16:30,3/16/2016 18:00,,Workshops F1-F8,Add Content
+42,3/17/2016 6:15,3/17/2016 7:00,,Yoga,Cybele Leger
+43,3/17/2016 7:30,3/17/2016 8:00,,Continental Breakfast,
+44,3/17/2016 8:00,3/17/2016 8:50,Cardiology,Outpatient Management of Atrial Fibrillation,"Laurence M. Epstein, MD"
+45,3/17/2016 8:50,3/17/2016 9:40,Cardiology,Current Management of Coronary Artery Disease,"James M. Kirshenbaum, MD"
+46,3/17/2016 9:40,3/17/2016 10:30,Cardiology,Update on Hyperlipidemia,"Scott Kinlay, MBBS, PhD"
+47,3/17/2016 10:30,3/17/2016 10:45,Cardiology,Coffee Break,
+48,3/17/2016 10:45,3/17/2016 11:35,Cardiology,Update on Anticoagulation*,"Samuel Z. Goldhaber, MD"
+49,3/17/2016 11:35,3/17/2016 12:25,,Top 10 Primary Care Articles,"David Fairchild, MD, MPH"
+50,3/17/2016 12:25,3/17/2016 13:40,,Lunch Break,
+51,3/17/2016 13:40,3/17/2016 14:30,Meet Our Master Clinicians,Workshops TH1-TH8,Add Content
+53,3/17/2016 14:40,3/17/2016 16:10,,Workshops G1-G8,Add Content
+54,3/17/2016 16:10,3/17/2016 16:30,,Coffee Break,
+55,3/17/2016 16:30,3/17/2016 18:00,,Workshops H1-H8,Add Content
+56,3/18/2016 7:30,3/18/2016 8:00,,Continental Breakfast,
+57,3/18/2016 8:00,3/18/2016 8:50,Updates in Primary Care 3,Choosing Wisely: Tests and Treatments,"Jane S. Sillman, MD"
+58,3/18/2016 8:50,3/18/2016 9:40,Updates in Primary Care 3,Update on Asthma,"Christopher H. Fanta, MD"
+59,3/18/2016 9:40,3/18/2016 10:30,Updates in Primary Care 3,Breast Cancer Screening*,"Susan L. Troyan, MD"
+60,3/18/2016 10:30,3/18/2016 10:45,Updates in Primary Care 3,Coffee Break,
+61,3/18/2016 10:45,3/18/2016 11:35,Updates in Primary Care 3,Dizziness and Vertigo: Practical Pointers,"Jonathan A. Edlow, MD"
+62,3/18/2016 11:35,3/18/2016 12:25,Updates in Primary Care 3,Approach to Chronic Pain Management**,"Nancy B. Kurtz, MD"
+63,3/18/2016 12:25,3/18/2016 13:40,Updates in Primary Care 3,Lunch Break,
+64,3/18/2016 13:40,3/18/2016 14:30,Updates in Primary Care 3,Challenging Rheumatology Cases ,"Derrick J. Todd, MD, PhD"
+66,3/18/2016 14:40,3/18/2016 16:10,,Workshops I1-I8,Add Content
